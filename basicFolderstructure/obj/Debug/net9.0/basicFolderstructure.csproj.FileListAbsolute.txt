@@ -1,0 +1,14 @@
+D:\TAP\DotNet\basicFolderstructure\bin\Debug\net9.0\basicFolderstructure.exe
+D:\TAP\DotNet\basicFolderstructure\bin\Debug\net9.0\basicFolderstructure.deps.json
+D:\TAP\DotNet\basicFolderstructure\bin\Debug\net9.0\basicFolderstructure.runtimeconfig.json
+D:\TAP\DotNet\basicFolderstructure\bin\Debug\net9.0\basicFolderstructure.dll
+D:\TAP\DotNet\basicFolderstructure\bin\Debug\net9.0\basicFolderstructure.pdb
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.AssemblyInfoInputs.cache
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.AssemblyInfo.cs
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.csproj.CoreCompileInputs.cache
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.dll
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\refint\basicFolderstructure.dll
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.pdb
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\basicFolderstructure.genruntimeconfig.cache
+D:\TAP\DotNet\basicFolderstructure\obj\Debug\net9.0\ref\basicFolderstructure.dll
