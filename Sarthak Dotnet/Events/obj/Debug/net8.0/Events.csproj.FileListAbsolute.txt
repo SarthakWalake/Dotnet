@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Events\bin\Debug\net8.0\Events.exe
+D:\Sarthak Spektra\Events\bin\Debug\net8.0\Events.deps.json
+D:\Sarthak Spektra\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+D:\Sarthak Spektra\Events\bin\Debug\net8.0\Events.dll
+D:\Sarthak Spektra\Events\bin\Debug\net8.0\Events.pdb
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.dll
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\refint\Events.dll
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.pdb
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+D:\Sarthak Spektra\Events\obj\Debug\net8.0\ref\Events.dll

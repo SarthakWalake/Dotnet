@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.exe
+D:\Sarthak Spektra\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.deps.json
+D:\Sarthak Spektra\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.runtimeconfig.json
+D:\Sarthak Spektra\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.dll
+D:\Sarthak Spektra\AnonymousMethod\bin\Debug\net8.0\AnonymousMethod.pdb
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.AssemblyInfo.cs
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.dll
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\refint\AnonymousMethod.dll
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.pdb
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\AnonymousMethod.genruntimeconfig.cache
+D:\Sarthak Spektra\AnonymousMethod\obj\Debug\net8.0\ref\AnonymousMethod.dll

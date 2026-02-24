@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Interface_Exp\bin\Debug\net8.0\Interface_Exp.exe
+D:\Sarthak Spektra\Interface_Exp\bin\Debug\net8.0\Interface_Exp.deps.json
+D:\Sarthak Spektra\Interface_Exp\bin\Debug\net8.0\Interface_Exp.runtimeconfig.json
+D:\Sarthak Spektra\Interface_Exp\bin\Debug\net8.0\Interface_Exp.dll
+D:\Sarthak Spektra\Interface_Exp\bin\Debug\net8.0\Interface_Exp.pdb
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.AssemblyInfo.cs
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.dll
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\refint\Interface_Exp.dll
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.pdb
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\Interface_Exp.genruntimeconfig.cache
+D:\Sarthak Spektra\Interface_Exp\obj\Debug\net8.0\ref\Interface_Exp.dll

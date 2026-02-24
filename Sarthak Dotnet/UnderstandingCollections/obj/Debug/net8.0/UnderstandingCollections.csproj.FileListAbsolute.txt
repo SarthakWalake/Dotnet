@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\UnderstandingCollections\bin\Debug\net8.0\UnderstandingCollections.exe
+D:\Sarthak Spektra\UnderstandingCollections\bin\Debug\net8.0\UnderstandingCollections.deps.json
+D:\Sarthak Spektra\UnderstandingCollections\bin\Debug\net8.0\UnderstandingCollections.runtimeconfig.json
+D:\Sarthak Spektra\UnderstandingCollections\bin\Debug\net8.0\UnderstandingCollections.dll
+D:\Sarthak Spektra\UnderstandingCollections\bin\Debug\net8.0\UnderstandingCollections.pdb
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.AssemblyInfo.cs
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.dll
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\refint\UnderstandingCollections.dll
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.pdb
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\UnderstandingCollections.genruntimeconfig.cache
+D:\Sarthak Spektra\UnderstandingCollections\obj\Debug\net8.0\ref\UnderstandingCollections.dll

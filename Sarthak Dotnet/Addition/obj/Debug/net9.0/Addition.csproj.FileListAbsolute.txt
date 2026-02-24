@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.AssemblyInfo.cs
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Addition\bin\Debug\net9.0\Addition.exe
+D:\Sarthak Spektra\Addition\bin\Debug\net9.0\Addition.deps.json
+D:\Sarthak Spektra\Addition\bin\Debug\net9.0\Addition.runtimeconfig.json
+D:\Sarthak Spektra\Addition\bin\Debug\net9.0\Addition.dll
+D:\Sarthak Spektra\Addition\bin\Debug\net9.0\Addition.pdb
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.dll
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\refint\Addition.dll
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.pdb
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\Addition.genruntimeconfig.cache
+D:\Sarthak Spektra\Addition\obj\Debug\net9.0\ref\Addition.dll

@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\Sarthak Spektra\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\Sarthak Spektra\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\Sarthak Spektra\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\Sarthak Spektra\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\Sarthak Spektra\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

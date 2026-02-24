@@ -1,0 +1,16 @@
+D:\Sarthak Spektra\WindowsGreeting\bin\Debug\net8.0-windows\WindowsGreeting.exe
+D:\Sarthak Spektra\WindowsGreeting\bin\Debug\net8.0-windows\WindowsGreeting.deps.json
+D:\Sarthak Spektra\WindowsGreeting\bin\Debug\net8.0-windows\WindowsGreeting.runtimeconfig.json
+D:\Sarthak Spektra\WindowsGreeting\bin\Debug\net8.0-windows\WindowsGreeting.dll
+D:\Sarthak Spektra\WindowsGreeting\bin\Debug\net8.0-windows\WindowsGreeting.pdb
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.frmGreeting.resources
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.csproj.GenerateResource.cache
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.AssemblyInfo.cs
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.dll
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\refint\WindowsGreeting.dll
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.pdb
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\WindowsGreeting.genruntimeconfig.cache
+D:\Sarthak Spektra\WindowsGreeting\obj\Debug\net8.0-windows\ref\WindowsGreeting.dll

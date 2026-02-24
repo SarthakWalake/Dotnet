@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.AssemblyInfo.cs
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\NamespacePratical\bin\Debug\net9.0\NamespacePratical.exe
+D:\Sarthak Spektra\NamespacePratical\bin\Debug\net9.0\NamespacePratical.deps.json
+D:\Sarthak Spektra\NamespacePratical\bin\Debug\net9.0\NamespacePratical.runtimeconfig.json
+D:\Sarthak Spektra\NamespacePratical\bin\Debug\net9.0\NamespacePratical.dll
+D:\Sarthak Spektra\NamespacePratical\bin\Debug\net9.0\NamespacePratical.pdb
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.dll
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\refint\NamespacePratical.dll
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.pdb
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\NamespacePratical.genruntimeconfig.cache
+D:\Sarthak Spektra\NamespacePratical\obj\Debug\net9.0\ref\NamespacePratical.dll

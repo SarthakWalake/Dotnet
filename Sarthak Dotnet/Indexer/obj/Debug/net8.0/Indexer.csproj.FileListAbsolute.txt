@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Indexer\bin\Debug\net8.0\Indexer.exe
+D:\Sarthak Spektra\Indexer\bin\Debug\net8.0\Indexer.deps.json
+D:\Sarthak Spektra\Indexer\bin\Debug\net8.0\Indexer.runtimeconfig.json
+D:\Sarthak Spektra\Indexer\bin\Debug\net8.0\Indexer.dll
+D:\Sarthak Spektra\Indexer\bin\Debug\net8.0\Indexer.pdb
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.AssemblyInfo.cs
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.dll
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\refint\Indexer.dll
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.pdb
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\Indexer.genruntimeconfig.cache
+D:\Sarthak Spektra\Indexer\obj\Debug\net8.0\ref\Indexer.dll

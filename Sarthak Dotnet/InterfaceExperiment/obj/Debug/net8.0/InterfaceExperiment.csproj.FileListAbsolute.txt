@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\InterfaceExperiment\bin\Debug\net8.0\InterfaceExperiment.exe
+D:\Sarthak Spektra\InterfaceExperiment\bin\Debug\net8.0\InterfaceExperiment.deps.json
+D:\Sarthak Spektra\InterfaceExperiment\bin\Debug\net8.0\InterfaceExperiment.runtimeconfig.json
+D:\Sarthak Spektra\InterfaceExperiment\bin\Debug\net8.0\InterfaceExperiment.dll
+D:\Sarthak Spektra\InterfaceExperiment\bin\Debug\net8.0\InterfaceExperiment.pdb
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.AssemblyInfo.cs
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.dll
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\refint\InterfaceExperiment.dll
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.pdb
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\InterfaceExperiment.genruntimeconfig.cache
+D:\Sarthak Spektra\InterfaceExperiment\obj\Debug\net8.0\ref\InterfaceExperiment.dll

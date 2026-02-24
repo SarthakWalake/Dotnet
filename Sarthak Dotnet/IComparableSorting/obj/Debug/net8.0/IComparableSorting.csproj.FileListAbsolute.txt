@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\IComparableSorting\bin\Debug\net8.0\IComparableSorting.exe
+D:\Sarthak Spektra\IComparableSorting\bin\Debug\net8.0\IComparableSorting.deps.json
+D:\Sarthak Spektra\IComparableSorting\bin\Debug\net8.0\IComparableSorting.runtimeconfig.json
+D:\Sarthak Spektra\IComparableSorting\bin\Debug\net8.0\IComparableSorting.dll
+D:\Sarthak Spektra\IComparableSorting\bin\Debug\net8.0\IComparableSorting.pdb
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.AssemblyInfo.cs
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.dll
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\refint\IComparableSorting.dll
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.pdb
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\IComparableSorting.genruntimeconfig.cache
+D:\Sarthak Spektra\IComparableSorting\obj\Debug\net8.0\ref\IComparableSorting.dll

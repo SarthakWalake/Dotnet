@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\IEnumeratorUnderstanding\bin\Debug\net8.0\IEnumeratorUnderstanding.exe
+D:\Sarthak Spektra\IEnumeratorUnderstanding\bin\Debug\net8.0\IEnumeratorUnderstanding.deps.json
+D:\Sarthak Spektra\IEnumeratorUnderstanding\bin\Debug\net8.0\IEnumeratorUnderstanding.runtimeconfig.json
+D:\Sarthak Spektra\IEnumeratorUnderstanding\bin\Debug\net8.0\IEnumeratorUnderstanding.dll
+D:\Sarthak Spektra\IEnumeratorUnderstanding\bin\Debug\net8.0\IEnumeratorUnderstanding.pdb
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.AssemblyInfo.cs
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.dll
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\refint\IEnumeratorUnderstanding.dll
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.pdb
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\IEnumeratorUnderstanding.genruntimeconfig.cache
+D:\Sarthak Spektra\IEnumeratorUnderstanding\obj\Debug\net8.0\ref\IEnumeratorUnderstanding.dll

@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\BoxingEg\bin\Debug\net8.0\BoxingEg.exe
+D:\Sarthak Spektra\BoxingEg\bin\Debug\net8.0\BoxingEg.deps.json
+D:\Sarthak Spektra\BoxingEg\bin\Debug\net8.0\BoxingEg.runtimeconfig.json
+D:\Sarthak Spektra\BoxingEg\bin\Debug\net8.0\BoxingEg.dll
+D:\Sarthak Spektra\BoxingEg\bin\Debug\net8.0\BoxingEg.pdb
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.AssemblyInfo.cs
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.dll
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\refint\BoxingEg.dll
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.pdb
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\BoxingEg.genruntimeconfig.cache
+D:\Sarthak Spektra\BoxingEg\obj\Debug\net8.0\ref\BoxingEg.dll

@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.AssemblyInfo.cs
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\CoffeeMachine\bin\Debug\net9.0\CoffeeMachine.exe
+D:\Sarthak Spektra\CoffeeMachine\bin\Debug\net9.0\CoffeeMachine.deps.json
+D:\Sarthak Spektra\CoffeeMachine\bin\Debug\net9.0\CoffeeMachine.runtimeconfig.json
+D:\Sarthak Spektra\CoffeeMachine\bin\Debug\net9.0\CoffeeMachine.dll
+D:\Sarthak Spektra\CoffeeMachine\bin\Debug\net9.0\CoffeeMachine.pdb
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.dll
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\refint\CoffeeMachine.dll
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.pdb
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\CoffeeMachine.genruntimeconfig.cache
+D:\Sarthak Spektra\CoffeeMachine\obj\Debug\net9.0\ref\CoffeeMachine.dll

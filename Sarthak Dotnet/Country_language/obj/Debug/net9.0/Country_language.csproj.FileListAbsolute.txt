@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.AssemblyInfo.cs
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Country_language\bin\Debug\net9.0\Country_language.exe
+D:\Sarthak Spektra\Country_language\bin\Debug\net9.0\Country_language.deps.json
+D:\Sarthak Spektra\Country_language\bin\Debug\net9.0\Country_language.runtimeconfig.json
+D:\Sarthak Spektra\Country_language\bin\Debug\net9.0\Country_language.dll
+D:\Sarthak Spektra\Country_language\bin\Debug\net9.0\Country_language.pdb
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.dll
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\refint\Country_language.dll
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.pdb
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\Country_language.genruntimeconfig.cache
+D:\Sarthak Spektra\Country_language\obj\Debug\net9.0\ref\Country_language.dll

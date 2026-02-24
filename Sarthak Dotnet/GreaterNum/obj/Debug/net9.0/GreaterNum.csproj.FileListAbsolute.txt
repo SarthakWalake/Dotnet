@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.AssemblyInfo.cs
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\GreaterNum\bin\Debug\net9.0\GreaterNum.exe
+D:\Sarthak Spektra\GreaterNum\bin\Debug\net9.0\GreaterNum.deps.json
+D:\Sarthak Spektra\GreaterNum\bin\Debug\net9.0\GreaterNum.runtimeconfig.json
+D:\Sarthak Spektra\GreaterNum\bin\Debug\net9.0\GreaterNum.dll
+D:\Sarthak Spektra\GreaterNum\bin\Debug\net9.0\GreaterNum.pdb
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.dll
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\refint\GreaterNum.dll
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.pdb
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\GreaterNum.genruntimeconfig.cache
+D:\Sarthak Spektra\GreaterNum\obj\Debug\net9.0\ref\GreaterNum.dll

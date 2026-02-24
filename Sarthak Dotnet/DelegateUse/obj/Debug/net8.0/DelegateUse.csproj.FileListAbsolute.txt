@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.AssemblyInfo.cs
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\DelegateUse\bin\Debug\net8.0\DelegateUse.exe
+D:\Sarthak Spektra\DelegateUse\bin\Debug\net8.0\DelegateUse.deps.json
+D:\Sarthak Spektra\DelegateUse\bin\Debug\net8.0\DelegateUse.runtimeconfig.json
+D:\Sarthak Spektra\DelegateUse\bin\Debug\net8.0\DelegateUse.dll
+D:\Sarthak Spektra\DelegateUse\bin\Debug\net8.0\DelegateUse.pdb
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.dll
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\refint\DelegateUse.dll
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.pdb
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\DelegateUse.genruntimeconfig.cache
+D:\Sarthak Spektra\DelegateUse\obj\Debug\net8.0\ref\DelegateUse.dll

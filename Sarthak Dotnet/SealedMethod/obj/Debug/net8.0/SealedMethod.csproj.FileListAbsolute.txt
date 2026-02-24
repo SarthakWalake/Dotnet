@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\SealedMethod\bin\Debug\net8.0\SealedMethod.exe
+D:\Sarthak Spektra\SealedMethod\bin\Debug\net8.0\SealedMethod.deps.json
+D:\Sarthak Spektra\SealedMethod\bin\Debug\net8.0\SealedMethod.runtimeconfig.json
+D:\Sarthak Spektra\SealedMethod\bin\Debug\net8.0\SealedMethod.dll
+D:\Sarthak Spektra\SealedMethod\bin\Debug\net8.0\SealedMethod.pdb
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.AssemblyInfo.cs
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.dll
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\refint\SealedMethod.dll
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.pdb
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\SealedMethod.genruntimeconfig.cache
+D:\Sarthak Spektra\SealedMethod\obj\Debug\net8.0\ref\SealedMethod.dll

@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.AssemblyInfo.cs
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\MathematicalTable\bin\Debug\net9.0\MathematicalTable.exe
+D:\Sarthak Spektra\MathematicalTable\bin\Debug\net9.0\MathematicalTable.deps.json
+D:\Sarthak Spektra\MathematicalTable\bin\Debug\net9.0\MathematicalTable.runtimeconfig.json
+D:\Sarthak Spektra\MathematicalTable\bin\Debug\net9.0\MathematicalTable.dll
+D:\Sarthak Spektra\MathematicalTable\bin\Debug\net9.0\MathematicalTable.pdb
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.dll
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\refint\MathematicalTable.dll
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.pdb
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\MathematicalTable.genruntimeconfig.cache
+D:\Sarthak Spektra\MathematicalTable\obj\Debug\net9.0\ref\MathematicalTable.dll

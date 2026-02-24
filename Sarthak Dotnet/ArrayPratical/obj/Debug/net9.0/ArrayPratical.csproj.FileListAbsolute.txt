@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.AssemblyInfo.cs
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\ArrayPratical\bin\Debug\net9.0\ArrayPratical.exe
+D:\Sarthak Spektra\ArrayPratical\bin\Debug\net9.0\ArrayPratical.deps.json
+D:\Sarthak Spektra\ArrayPratical\bin\Debug\net9.0\ArrayPratical.runtimeconfig.json
+D:\Sarthak Spektra\ArrayPratical\bin\Debug\net9.0\ArrayPratical.dll
+D:\Sarthak Spektra\ArrayPratical\bin\Debug\net9.0\ArrayPratical.pdb
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.dll
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\refint\ArrayPratical.dll
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.pdb
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ArrayPratical.genruntimeconfig.cache
+D:\Sarthak Spektra\ArrayPratical\obj\Debug\net9.0\ref\ArrayPratical.dll

@@ -1,0 +1,11 @@
+D:\Sarthak Spektra\Greetinglibrary\bin\Debug\net9.0\Greetinglibrary.deps.json
+D:\Sarthak Spektra\Greetinglibrary\bin\Debug\net9.0\Greetinglibrary.dll
+D:\Sarthak Spektra\Greetinglibrary\bin\Debug\net9.0\Greetinglibrary.pdb
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.AssemblyInfo.cs
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.dll
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\refint\Greetinglibrary.dll
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.pdb
+D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\ref\Greetinglibrary.dll

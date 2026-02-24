@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\CustomException\bin\Debug\net8.0\CustomException.exe
+D:\Sarthak Spektra\CustomException\bin\Debug\net8.0\CustomException.deps.json
+D:\Sarthak Spektra\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+D:\Sarthak Spektra\CustomException\bin\Debug\net8.0\CustomException.dll
+D:\Sarthak Spektra\CustomException\bin\Debug\net8.0\CustomException.pdb
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.dll
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.pdb
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+D:\Sarthak Spektra\CustomException\obj\Debug\net8.0\ref\CustomException.dll

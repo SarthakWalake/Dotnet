@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Params_Understanding\bin\Debug\net8.0\Params_Understanding.exe
+D:\Sarthak Spektra\Params_Understanding\bin\Debug\net8.0\Params_Understanding.deps.json
+D:\Sarthak Spektra\Params_Understanding\bin\Debug\net8.0\Params_Understanding.runtimeconfig.json
+D:\Sarthak Spektra\Params_Understanding\bin\Debug\net8.0\Params_Understanding.dll
+D:\Sarthak Spektra\Params_Understanding\bin\Debug\net8.0\Params_Understanding.pdb
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.AssemblyInfo.cs
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.dll
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\refint\Params_Understanding.dll
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.pdb
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\Params_Understanding.genruntimeconfig.cache
+D:\Sarthak Spektra\Params_Understanding\obj\Debug\net8.0\ref\Params_Understanding.dll

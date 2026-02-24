@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.AssemblyInfo.cs
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\EnumBasic\bin\Debug\net9.0\EnumBasic.exe
+D:\Sarthak Spektra\EnumBasic\bin\Debug\net9.0\EnumBasic.deps.json
+D:\Sarthak Spektra\EnumBasic\bin\Debug\net9.0\EnumBasic.runtimeconfig.json
+D:\Sarthak Spektra\EnumBasic\bin\Debug\net9.0\EnumBasic.dll
+D:\Sarthak Spektra\EnumBasic\bin\Debug\net9.0\EnumBasic.pdb
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.dll
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\refint\EnumBasic.dll
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.pdb
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\EnumBasic.genruntimeconfig.cache
+D:\Sarthak Spektra\EnumBasic\obj\Debug\net9.0\ref\EnumBasic.dll

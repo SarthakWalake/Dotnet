@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\IComparable_Employee\bin\Debug\net8.0\IComparable_Employee.exe
+D:\Sarthak Spektra\IComparable_Employee\bin\Debug\net8.0\IComparable_Employee.deps.json
+D:\Sarthak Spektra\IComparable_Employee\bin\Debug\net8.0\IComparable_Employee.runtimeconfig.json
+D:\Sarthak Spektra\IComparable_Employee\bin\Debug\net8.0\IComparable_Employee.dll
+D:\Sarthak Spektra\IComparable_Employee\bin\Debug\net8.0\IComparable_Employee.pdb
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.AssemblyInfo.cs
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.dll
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\refint\IComparable_Employee.dll
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.pdb
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\IComparable_Employee.genruntimeconfig.cache
+D:\Sarthak Spektra\IComparable_Employee\obj\Debug\net8.0\ref\IComparable_Employee.dll

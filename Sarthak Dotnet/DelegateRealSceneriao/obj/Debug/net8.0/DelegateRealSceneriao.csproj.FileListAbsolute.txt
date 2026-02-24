@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\DelegateRealSceneriao\bin\Debug\net8.0\DelegateRealSceneriao.exe
+D:\Sarthak Spektra\DelegateRealSceneriao\bin\Debug\net8.0\DelegateRealSceneriao.deps.json
+D:\Sarthak Spektra\DelegateRealSceneriao\bin\Debug\net8.0\DelegateRealSceneriao.runtimeconfig.json
+D:\Sarthak Spektra\DelegateRealSceneriao\bin\Debug\net8.0\DelegateRealSceneriao.dll
+D:\Sarthak Spektra\DelegateRealSceneriao\bin\Debug\net8.0\DelegateRealSceneriao.pdb
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.AssemblyInfo.cs
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.dll
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\refint\DelegateRealSceneriao.dll
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.pdb
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\DelegateRealSceneriao.genruntimeconfig.cache
+D:\Sarthak Spektra\DelegateRealSceneriao\obj\Debug\net8.0\ref\DelegateRealSceneriao.dll

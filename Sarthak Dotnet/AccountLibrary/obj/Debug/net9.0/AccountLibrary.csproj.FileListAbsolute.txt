@@ -1,0 +1,11 @@
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.AssemblyInfo.cs
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\AccountLibrary\bin\Debug\net9.0\AccountLibrary.deps.json
+D:\Sarthak Spektra\AccountLibrary\bin\Debug\net9.0\AccountLibrary.dll
+D:\Sarthak Spektra\AccountLibrary\bin\Debug\net9.0\AccountLibrary.pdb
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.dll
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\refint\AccountLibrary.dll
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.pdb
+D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\ref\AccountLibrary.dll

@@ -1,0 +1,15 @@
+D:\Sarthak Spektra\VendorLibrary\bin\Debug\net9.0\VendorLibrary.deps.json
+D:\Sarthak Spektra\VendorLibrary\bin\Debug\net9.0\VendorLibrary.dll
+D:\Sarthak Spektra\VendorLibrary\bin\Debug\net9.0\VendorLibrary.pdb
+D:\Sarthak Spektra\VendorLibrary\bin\Debug\net9.0\BusinessLibrary.dll
+D:\Sarthak Spektra\VendorLibrary\bin\Debug\net9.0\BusinessLibrary.pdb
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.csproj.AssemblyReference.cache
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.AssemblyInfo.cs
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLi.0F16AB74.Up2Date
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.dll
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\refint\VendorLibrary.dll
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\VendorLibrary.pdb
+D:\Sarthak Spektra\VendorLibrary\obj\Debug\net9.0\ref\VendorLibrary.dll

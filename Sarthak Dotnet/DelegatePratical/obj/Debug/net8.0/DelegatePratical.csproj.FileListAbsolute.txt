@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\DelegatePratical\bin\Debug\net8.0\DelegatePratical.exe
+D:\Sarthak Spektra\DelegatePratical\bin\Debug\net8.0\DelegatePratical.deps.json
+D:\Sarthak Spektra\DelegatePratical\bin\Debug\net8.0\DelegatePratical.runtimeconfig.json
+D:\Sarthak Spektra\DelegatePratical\bin\Debug\net8.0\DelegatePratical.dll
+D:\Sarthak Spektra\DelegatePratical\bin\Debug\net8.0\DelegatePratical.pdb
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.AssemblyInfo.cs
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.dll
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\refint\DelegatePratical.dll
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.pdb
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\DelegatePratical.genruntimeconfig.cache
+D:\Sarthak Spektra\DelegatePratical\obj\Debug\net8.0\ref\DelegatePratical.dll

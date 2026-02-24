@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\StudentMarksheet\bin\Debug\net9.0\StudentMarksheet.exe
+D:\Sarthak Spektra\StudentMarksheet\bin\Debug\net9.0\StudentMarksheet.deps.json
+D:\Sarthak Spektra\StudentMarksheet\bin\Debug\net9.0\StudentMarksheet.runtimeconfig.json
+D:\Sarthak Spektra\StudentMarksheet\bin\Debug\net9.0\StudentMarksheet.dll
+D:\Sarthak Spektra\StudentMarksheet\bin\Debug\net9.0\StudentMarksheet.pdb
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.AssemblyInfo.cs
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.dll
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\refint\StudentMarksheet.dll
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.pdb
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\StudentMarksheet.genruntimeconfig.cache
+D:\Sarthak Spektra\StudentMarksheet\obj\Debug\net9.0\ref\StudentMarksheet.dll

@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\ReadOnly_Constant\bin\Debug\net9.0\ReadOnly_Constant.exe
+D:\Sarthak Spektra\ReadOnly_Constant\bin\Debug\net9.0\ReadOnly_Constant.deps.json
+D:\Sarthak Spektra\ReadOnly_Constant\bin\Debug\net9.0\ReadOnly_Constant.runtimeconfig.json
+D:\Sarthak Spektra\ReadOnly_Constant\bin\Debug\net9.0\ReadOnly_Constant.dll
+D:\Sarthak Spektra\ReadOnly_Constant\bin\Debug\net9.0\ReadOnly_Constant.pdb
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.AssemblyInfo.cs
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.dll
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\refint\ReadOnly_Constant.dll
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.pdb
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ReadOnly_Constant.genruntimeconfig.cache
+D:\Sarthak Spektra\ReadOnly_Constant\obj\Debug\net9.0\ref\ReadOnly_Constant.dll

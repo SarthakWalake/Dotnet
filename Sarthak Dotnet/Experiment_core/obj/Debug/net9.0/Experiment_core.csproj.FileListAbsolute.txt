@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Experiment_core\bin\Debug\net9.0\Experiment_core.exe
+D:\Sarthak Spektra\Experiment_core\bin\Debug\net9.0\Experiment_core.deps.json
+D:\Sarthak Spektra\Experiment_core\bin\Debug\net9.0\Experiment_core.runtimeconfig.json
+D:\Sarthak Spektra\Experiment_core\bin\Debug\net9.0\Experiment_core.dll
+D:\Sarthak Spektra\Experiment_core\bin\Debug\net9.0\Experiment_core.pdb
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.AssemblyInfo.cs
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.dll
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\refint\Experiment_core.dll
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.pdb
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\Experiment_core.genruntimeconfig.cache
+D:\Sarthak Spektra\Experiment_core\obj\Debug\net9.0\ref\Experiment_core.dll

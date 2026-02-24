@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\IComparble_Student\bin\Debug\net8.0\IComparble_Student.exe
+D:\Sarthak Spektra\IComparble_Student\bin\Debug\net8.0\IComparble_Student.deps.json
+D:\Sarthak Spektra\IComparble_Student\bin\Debug\net8.0\IComparble_Student.runtimeconfig.json
+D:\Sarthak Spektra\IComparble_Student\bin\Debug\net8.0\IComparble_Student.dll
+D:\Sarthak Spektra\IComparble_Student\bin\Debug\net8.0\IComparble_Student.pdb
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.AssemblyInfo.cs
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.dll
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\refint\IComparble_Student.dll
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.pdb
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\IComparble_Student.genruntimeconfig.cache
+D:\Sarthak Spektra\IComparble_Student\obj\Debug\net8.0\ref\IComparble_Student.dll

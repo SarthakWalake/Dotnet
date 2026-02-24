@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GreetingApplication/1.0.0": {
+        "dependencies": {
+          "Greetinglibrary": "1.0.0"
+        },
+        "runtime": {
+          "GreetingApplication.dll": {}
+        }
+      },
+      "Greetinglibrary/1.0.0": {
+        "runtime": {
+          "Greetinglibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GreetingApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Greetinglibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

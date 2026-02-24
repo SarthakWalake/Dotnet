@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\NullableType\bin\Debug\net9.0\NullableType.exe
+D:\Sarthak Spektra\NullableType\bin\Debug\net9.0\NullableType.deps.json
+D:\Sarthak Spektra\NullableType\bin\Debug\net9.0\NullableType.runtimeconfig.json
+D:\Sarthak Spektra\NullableType\bin\Debug\net9.0\NullableType.dll
+D:\Sarthak Spektra\NullableType\bin\Debug\net9.0\NullableType.pdb
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.AssemblyInfo.cs
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.dll
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\refint\NullableType.dll
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.pdb
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\NullableType.genruntimeconfig.cache
+D:\Sarthak Spektra\NullableType\obj\Debug\net9.0\ref\NullableType.dll

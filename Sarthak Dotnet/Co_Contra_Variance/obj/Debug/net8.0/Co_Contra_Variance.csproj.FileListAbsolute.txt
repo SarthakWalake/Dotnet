@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Co_Contra_Variance\bin\Debug\net8.0\Co_Contra_Variance.exe
+D:\Sarthak Spektra\Co_Contra_Variance\bin\Debug\net8.0\Co_Contra_Variance.deps.json
+D:\Sarthak Spektra\Co_Contra_Variance\bin\Debug\net8.0\Co_Contra_Variance.runtimeconfig.json
+D:\Sarthak Spektra\Co_Contra_Variance\bin\Debug\net8.0\Co_Contra_Variance.dll
+D:\Sarthak Spektra\Co_Contra_Variance\bin\Debug\net8.0\Co_Contra_Variance.pdb
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.AssemblyInfo.cs
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.dll
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\refint\Co_Contra_Variance.dll
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.pdb
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\Co_Contra_Variance.genruntimeconfig.cache
+D:\Sarthak Spektra\Co_Contra_Variance\obj\Debug\net8.0\ref\Co_Contra_Variance.dll

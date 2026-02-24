@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.AssemblyInfo.cs
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\ProtectedUnderstanding\bin\Debug\net9.0\ProtectedUnderstanding.exe
+D:\Sarthak Spektra\ProtectedUnderstanding\bin\Debug\net9.0\ProtectedUnderstanding.deps.json
+D:\Sarthak Spektra\ProtectedUnderstanding\bin\Debug\net9.0\ProtectedUnderstanding.runtimeconfig.json
+D:\Sarthak Spektra\ProtectedUnderstanding\bin\Debug\net9.0\ProtectedUnderstanding.dll
+D:\Sarthak Spektra\ProtectedUnderstanding\bin\Debug\net9.0\ProtectedUnderstanding.pdb
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.dll
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\refint\ProtectedUnderstanding.dll
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.pdb
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ProtectedUnderstanding.genruntimeconfig.cache
+D:\Sarthak Spektra\ProtectedUnderstanding\obj\Debug\net9.0\ref\ProtectedUnderstanding.dll

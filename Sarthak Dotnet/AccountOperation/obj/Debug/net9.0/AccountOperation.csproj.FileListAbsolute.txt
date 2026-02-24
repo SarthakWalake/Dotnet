@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.AssemblyInfo.cs
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\AccountOperation\bin\Debug\net9.0\AccountOperation.exe
+D:\Sarthak Spektra\AccountOperation\bin\Debug\net9.0\AccountOperation.deps.json
+D:\Sarthak Spektra\AccountOperation\bin\Debug\net9.0\AccountOperation.runtimeconfig.json
+D:\Sarthak Spektra\AccountOperation\bin\Debug\net9.0\AccountOperation.dll
+D:\Sarthak Spektra\AccountOperation\bin\Debug\net9.0\AccountOperation.pdb
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.dll
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\refint\AccountOperation.dll
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.pdb
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\AccountOperation.genruntimeconfig.cache
+D:\Sarthak Spektra\AccountOperation\obj\Debug\net9.0\ref\AccountOperation.dll

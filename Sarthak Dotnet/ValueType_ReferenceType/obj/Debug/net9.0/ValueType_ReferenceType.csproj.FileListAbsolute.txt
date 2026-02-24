@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.AssemblyInfo.cs
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\ValueType_ReferenceType\bin\Debug\net9.0\ValueType_ReferenceType.exe
+D:\Sarthak Spektra\ValueType_ReferenceType\bin\Debug\net9.0\ValueType_ReferenceType.deps.json
+D:\Sarthak Spektra\ValueType_ReferenceType\bin\Debug\net9.0\ValueType_ReferenceType.runtimeconfig.json
+D:\Sarthak Spektra\ValueType_ReferenceType\bin\Debug\net9.0\ValueType_ReferenceType.dll
+D:\Sarthak Spektra\ValueType_ReferenceType\bin\Debug\net9.0\ValueType_ReferenceType.pdb
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.dll
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\refint\ValueType_ReferenceType.dll
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.pdb
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ValueType_ReferenceType.genruntimeconfig.cache
+D:\Sarthak Spektra\ValueType_ReferenceType\obj\Debug\net9.0\ref\ValueType_ReferenceType.dll

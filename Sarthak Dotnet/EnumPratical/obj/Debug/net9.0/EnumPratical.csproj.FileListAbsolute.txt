@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\EnumPratical\bin\Debug\net9.0\EnumPratical.exe
+D:\Sarthak Spektra\EnumPratical\bin\Debug\net9.0\EnumPratical.deps.json
+D:\Sarthak Spektra\EnumPratical\bin\Debug\net9.0\EnumPratical.runtimeconfig.json
+D:\Sarthak Spektra\EnumPratical\bin\Debug\net9.0\EnumPratical.dll
+D:\Sarthak Spektra\EnumPratical\bin\Debug\net9.0\EnumPratical.pdb
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.AssemblyInfo.cs
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.dll
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\refint\EnumPratical.dll
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.pdb
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\EnumPratical.genruntimeconfig.cache
+D:\Sarthak Spektra\EnumPratical\obj\Debug\net9.0\ref\EnumPratical.dll

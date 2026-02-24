@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\EqualityComparision\bin\Debug\net9.0\EqualityComparision.exe
+D:\Sarthak Spektra\EqualityComparision\bin\Debug\net9.0\EqualityComparision.deps.json
+D:\Sarthak Spektra\EqualityComparision\bin\Debug\net9.0\EqualityComparision.runtimeconfig.json
+D:\Sarthak Spektra\EqualityComparision\bin\Debug\net9.0\EqualityComparision.dll
+D:\Sarthak Spektra\EqualityComparision\bin\Debug\net9.0\EqualityComparision.pdb
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.AssemblyInfo.cs
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.dll
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\refint\EqualityComparision.dll
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.pdb
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\EqualityComparision.genruntimeconfig.cache
+D:\Sarthak Spektra\EqualityComparision\obj\Debug\net9.0\ref\EqualityComparision.dll

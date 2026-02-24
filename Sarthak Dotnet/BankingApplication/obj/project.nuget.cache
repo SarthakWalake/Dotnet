@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5qUonN0BUI=",
+  "success": false,
+  "projectFilePath": "D:\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "projectPath": "D:\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
+      "filePath": "D:\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
+      "libraryId": "D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

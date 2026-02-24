@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Properties\bin\Debug\net9.0\Properties.exe
+D:\Sarthak Spektra\Properties\bin\Debug\net9.0\Properties.deps.json
+D:\Sarthak Spektra\Properties\bin\Debug\net9.0\Properties.runtimeconfig.json
+D:\Sarthak Spektra\Properties\bin\Debug\net9.0\Properties.dll
+D:\Sarthak Spektra\Properties\bin\Debug\net9.0\Properties.pdb
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.AssemblyInfo.cs
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.dll
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\refint\Properties.dll
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.pdb
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\Properties.genruntimeconfig.cache
+D:\Sarthak Spektra\Properties\obj\Debug\net9.0\ref\Properties.dll

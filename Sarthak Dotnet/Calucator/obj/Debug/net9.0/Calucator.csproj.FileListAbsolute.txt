@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Calucator\bin\Debug\net9.0\Calucator.exe
+D:\Sarthak Spektra\Calucator\bin\Debug\net9.0\Calucator.deps.json
+D:\Sarthak Spektra\Calucator\bin\Debug\net9.0\Calucator.runtimeconfig.json
+D:\Sarthak Spektra\Calucator\bin\Debug\net9.0\Calucator.dll
+D:\Sarthak Spektra\Calucator\bin\Debug\net9.0\Calucator.pdb
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.AssemblyInfo.cs
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.dll
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\refint\Calucator.dll
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.pdb
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\Calucator.genruntimeconfig.cache
+D:\Sarthak Spektra\Calucator\obj\Debug\net9.0\ref\Calucator.dll

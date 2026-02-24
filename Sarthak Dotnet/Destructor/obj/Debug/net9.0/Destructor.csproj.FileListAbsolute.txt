@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Destructor\bin\Debug\net9.0\Destructor.exe
+D:\Sarthak Spektra\Destructor\bin\Debug\net9.0\Destructor.deps.json
+D:\Sarthak Spektra\Destructor\bin\Debug\net9.0\Destructor.runtimeconfig.json
+D:\Sarthak Spektra\Destructor\bin\Debug\net9.0\Destructor.dll
+D:\Sarthak Spektra\Destructor\bin\Debug\net9.0\Destructor.pdb
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.AssemblyInfo.cs
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.dll
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\refint\Destructor.dll
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.pdb
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\Destructor.genruntimeconfig.cache
+D:\Sarthak Spektra\Destructor\obj\Debug\net9.0\ref\Destructor.dll

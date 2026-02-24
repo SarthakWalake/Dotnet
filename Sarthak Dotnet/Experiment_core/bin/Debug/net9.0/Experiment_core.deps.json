@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Experiment_core/1.0.0": {
+        "runtime": {
+          "Experiment_core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Experiment_core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

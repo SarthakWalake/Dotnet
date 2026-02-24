@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\Interface_Inheritance\bin\Debug\net8.0\Interface_Inheritance.exe
+D:\Sarthak Spektra\Interface_Inheritance\bin\Debug\net8.0\Interface_Inheritance.deps.json
+D:\Sarthak Spektra\Interface_Inheritance\bin\Debug\net8.0\Interface_Inheritance.runtimeconfig.json
+D:\Sarthak Spektra\Interface_Inheritance\bin\Debug\net8.0\Interface_Inheritance.dll
+D:\Sarthak Spektra\Interface_Inheritance\bin\Debug\net8.0\Interface_Inheritance.pdb
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.AssemblyInfo.cs
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.dll
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\refint\Interface_Inheritance.dll
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.pdb
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\Interface_Inheritance.genruntimeconfig.cache
+D:\Sarthak Spektra\Interface_Inheritance\obj\Debug\net8.0\ref\Interface_Inheritance.dll

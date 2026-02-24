@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.AssemblyInfo.cs
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\AscendingNum\bin\Debug\net9.0\AscendingNum.exe
+D:\Sarthak Spektra\AscendingNum\bin\Debug\net9.0\AscendingNum.deps.json
+D:\Sarthak Spektra\AscendingNum\bin\Debug\net9.0\AscendingNum.runtimeconfig.json
+D:\Sarthak Spektra\AscendingNum\bin\Debug\net9.0\AscendingNum.dll
+D:\Sarthak Spektra\AscendingNum\bin\Debug\net9.0\AscendingNum.pdb
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.dll
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\refint\AscendingNum.dll
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.pdb
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\AscendingNum.genruntimeconfig.cache
+D:\Sarthak Spektra\AscendingNum\obj\Debug\net9.0\ref\AscendingNum.dll

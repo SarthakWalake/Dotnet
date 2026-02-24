@@ -1,0 +1,11 @@
+D:\Sarthak Spektra\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.deps.json
+D:\Sarthak Spektra\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.dll
+D:\Sarthak Spektra\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.pdb
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.AssemblyInfo.cs
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.dll
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\refint\BusinessLibrary.dll
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.pdb
+D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\ref\BusinessLibrary.dll

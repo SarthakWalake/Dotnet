@@ -1,0 +1,14 @@
+D:\Sarthak Spektra\BasicDelegates\bin\Debug\net8.0\BasicDelegates.exe
+D:\Sarthak Spektra\BasicDelegates\bin\Debug\net8.0\BasicDelegates.deps.json
+D:\Sarthak Spektra\BasicDelegates\bin\Debug\net8.0\BasicDelegates.runtimeconfig.json
+D:\Sarthak Spektra\BasicDelegates\bin\Debug\net8.0\BasicDelegates.dll
+D:\Sarthak Spektra\BasicDelegates\bin\Debug\net8.0\BasicDelegates.pdb
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.AssemblyInfoInputs.cache
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.AssemblyInfo.cs
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.csproj.CoreCompileInputs.cache
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.dll
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\refint\BasicDelegates.dll
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.pdb
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\BasicDelegates.genruntimeconfig.cache
+D:\Sarthak Spektra\BasicDelegates\obj\Debug\net8.0\ref\BasicDelegates.dll
