@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Spektra\\AccountLibrary\\AccountLibrary.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Spektra\\AccountLibrary\\AccountLibrary.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Spektra\\AccountLibrary\\AccountLibrary.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj",
         "projectName": "AccountLibrary",
-        "projectPath": "D:\\Sarthak Spektra\\AccountLibrary\\AccountLibrary.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Spektra\\AccountLibrary\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

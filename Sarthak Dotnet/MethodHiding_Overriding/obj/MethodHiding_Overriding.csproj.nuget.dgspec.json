@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj",
         "projectName": "MethodHiding_Overriding",
-        "projectPath": "D:\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\MethodHiding_Overriding\\MethodHiding_Overriding.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\MethodHiding_Overriding\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\MethodHiding_Overriding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

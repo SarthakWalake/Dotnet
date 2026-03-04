@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\IComparble_Student\\IComparble_Student.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IComparble_Student\\IComparble_Student.csproj",
       "projectName": "IComparble_Student",
-      "projectPath": "D:\\Sarthak Dotnet\\IComparble_Student\\IComparble_Student.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IComparble_Student\\IComparble_Student.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\IComparble_Student\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IComparble_Student\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

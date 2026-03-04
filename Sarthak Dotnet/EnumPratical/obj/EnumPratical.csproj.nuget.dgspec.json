@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj",
         "projectName": "EnumPratical",
-        "projectPath": "D:\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EnumPratical\\EnumPratical.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\EnumPratical\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EnumPratical\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

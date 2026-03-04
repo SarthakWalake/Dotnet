@@ -46,7 +46,7 @@ class Program{
         break;
 
         case language.China:
-        Console.WriteLine("Language Spoken in "+l" is Chinees");
+        Console.WriteLine("Language Spoken in "+l+" is Chinees");
         break;
 
         case language.Japan:

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\Properties\\Properties.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Properties\\Properties.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\Properties\\Properties.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Properties\\Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\Properties\\Properties.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Properties\\Properties.csproj",
         "projectName": "Properties",
-        "projectPath": "D:\\Sarthak Dotnet\\Properties\\Properties.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Properties\\Properties.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\Properties\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

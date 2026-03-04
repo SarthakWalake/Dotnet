@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj",
         "projectName": "IEnumeratorUnderstanding",
-        "projectPath": "D:\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IEnumeratorUnderstanding\\IEnumeratorUnderstanding.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\IEnumeratorUnderstanding\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\IEnumeratorUnderstanding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

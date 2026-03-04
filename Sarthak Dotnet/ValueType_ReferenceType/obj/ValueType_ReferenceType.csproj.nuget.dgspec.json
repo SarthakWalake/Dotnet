@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj",
         "projectName": "ValueType_ReferenceType",
-        "projectPath": "D:\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ValueType_ReferenceType\\ValueType_ReferenceType.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\ValueType_ReferenceType\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ValueType_ReferenceType\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

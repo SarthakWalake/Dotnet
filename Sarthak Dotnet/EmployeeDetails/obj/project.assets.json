@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\EmployeeDetails\\EmployeeDetails.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EmployeeDetails\\EmployeeDetails.csproj",
       "projectName": "EmployeeDetails",
-      "projectPath": "D:\\Sarthak Dotnet\\EmployeeDetails\\EmployeeDetails.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EmployeeDetails\\EmployeeDetails.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\EmployeeDetails\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\EmployeeDetails\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

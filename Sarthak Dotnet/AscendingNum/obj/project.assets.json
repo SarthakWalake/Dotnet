@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\AscendingNum\\AscendingNum.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AscendingNum\\AscendingNum.csproj",
       "projectName": "AscendingNum",
-      "projectPath": "D:\\Sarthak Dotnet\\AscendingNum\\AscendingNum.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AscendingNum\\AscendingNum.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\AscendingNum\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AscendingNum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

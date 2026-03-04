@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj",
         "projectName": "Params_Understanding",
-        "projectPath": "D:\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Params_Understanding\\Params_Understanding.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\Params_Understanding\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Params_Understanding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

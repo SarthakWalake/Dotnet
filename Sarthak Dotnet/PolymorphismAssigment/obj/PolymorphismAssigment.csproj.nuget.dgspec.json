@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj",
         "projectName": "PolymorphismAssigment",
-        "projectPath": "D:\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\PolymorphismAssigment\\PolymorphismAssigment.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\PolymorphismAssigment\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\PolymorphismAssigment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

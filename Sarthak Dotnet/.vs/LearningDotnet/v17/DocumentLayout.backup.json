@@ -1,34 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Sarthak Dotnet\\",
+  "WorkspaceRootPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E49BAE4-A91C-4E9A-B5CE-18D9B2D0F0F4}|CsThreads\\CsThreads.csproj|d:\\sarthak dotnet\\csthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E49BAE4-A91C-4E9A-B5CE-18D9B2D0F0F4}|CsThreads\\CsThreads.csproj|solutionrelative:csthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A8E52D2-B4A1-4C6E-81CD-FFAD3883901F}|Console_ConnectedOperation\\Console_ConnectedOperation.csproj|d:\\tap\\github\\dotnet\\sarthak dotnet\\console_connectedoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8E52D2-B4A1-4C6E-81CD-FFAD3883901F}|Console_ConnectedOperation\\Console_ConnectedOperation.csproj|solutionrelative:console_connectedoperation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E49BAE4-A91C-4E9A-B5CE-18D9B2D0F0F4}|CsThreads\\CsThreads.csproj|d:\\sarthak dotnet\\csthreads\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E49BAE4-A91C-4E9A-B5CE-18D9B2D0F0F4}|CsThreads\\CsThreads.csproj|solutionrelative:csthreads\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF2B727A-690C-4717-8255-B423B7D94E34}|AnonymousMethod\\AnonymousMethod.csproj|d:\\sarthak dotnet\\anonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF2B727A-690C-4717-8255-B423B7D94E34}|AnonymousMethod\\AnonymousMethod.csproj|solutionrelative:anonymousmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90F56C2C-EBFE-47E9-8D9E-87FBB65F742E}|Co_Contra_Variance\\Co_Contra_Variance.csproj|d:\\sarthak dotnet\\co_contra_variance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90F56C2C-EBFE-47E9-8D9E-87FBB65F742E}|Co_Contra_Variance\\Co_Contra_Variance.csproj|solutionrelative:co_contra_variance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|d:\\sarthak dotnet\\events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|d:\\sarthak dotnet\\events\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|solutionrelative:events\\testbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|d:\\sarthak dotnet\\events\\eventdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{800CB7FE-7001-4755-9AAD-B46911759C50}|Events\\Events.csproj|solutionrelative:events\\eventdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A8E52D2-B4A1-4C6E-81CD-FFAD3883901F}|Console_ConnectedOperation\\Console_ConnectedOperation.csproj|d:\\tap\\github\\dotnet\\sarthak dotnet\\console_connectedoperation\\console_connectedoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A8E52D2-B4A1-4C6E-81CD-FFAD3883901F}|Console_ConnectedOperation\\Console_ConnectedOperation.csproj|solutionrelative:console_connectedoperation\\console_connectedoperation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyClass.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\CsThreads\\MyClass.cs",
-              "RelativeDocumentMoniker": "CsThreads\\MyClass.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\CsThreads\\MyClass.cs",
-              "RelativeToolTip": "CsThreads\\MyClass.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T07:44:48.959Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\CsThreads\\Program.cs",
-              "RelativeDocumentMoniker": "CsThreads\\Program.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\CsThreads\\Program.cs",
-              "RelativeToolTip": "CsThreads\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Console_ConnectedOperation\\Program.cs",
+              "RelativeDocumentMoniker": "Console_ConnectedOperation\\Program.cs",
+              "ToolTip": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Console_ConnectedOperation\\Program.cs",
+              "RelativeToolTip": "Console_ConnectedOperation\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T05:06:12.906Z",
+              "WhenOpened": "2026-03-04T07:35:59.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\AnonymousMethod\\Program.cs",
-              "RelativeDocumentMoniker": "AnonymousMethod\\Program.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\AnonymousMethod\\Program.cs",
-              "RelativeToolTip": "AnonymousMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T11:08:23.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Program.cs",
-              "RelativeDocumentMoniker": "Co_Contra_Variance\\Program.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Program.cs",
-              "RelativeToolTip": "Co_Contra_Variance\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T07:04:26.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventDelegate.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\Events\\EventDelegate.cs",
-              "RelativeDocumentMoniker": "Events\\EventDelegate.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\Events\\EventDelegate.cs",
-              "RelativeToolTip": "Events\\EventDelegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:18:53.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestButton.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\Events\\TestButton.cs",
-              "RelativeDocumentMoniker": "Events\\TestButton.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\Events\\TestButton.cs",
-              "RelativeToolTip": "Events\\TestButton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:17:18.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Sarthak Dotnet\\Events\\Program.cs",
-              "RelativeDocumentMoniker": "Events\\Program.cs",
-              "ToolTip": "D:\\Sarthak Dotnet\\Events\\Program.cs",
-              "RelativeToolTip": "Events\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T06:16:44.953Z"
+              "DocumentIndex": 1,
+              "Title": "Console_ConnectedOperation",
+              "DocumentMoniker": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Console_ConnectedOperation\\Console_ConnectedOperation.csproj",
+              "RelativeDocumentMoniker": "Console_ConnectedOperation\\Console_ConnectedOperation.csproj",
+              "ToolTip": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Console_ConnectedOperation\\Console_ConnectedOperation.csproj",
+              "RelativeToolTip": "Console_ConnectedOperation\\Console_ConnectedOperation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T07:08:20.088Z",
+              "EditorCaption": ""
             }
           ]
         }

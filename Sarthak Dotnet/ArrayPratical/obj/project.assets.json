@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\ArrayPratical\\ArrayPratical.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ArrayPratical\\ArrayPratical.csproj",
       "projectName": "ArrayPratical",
-      "projectPath": "D:\\Sarthak Dotnet\\ArrayPratical\\ArrayPratical.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ArrayPratical\\ArrayPratical.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\ArrayPratical\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ArrayPratical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj",
         "projectName": "ReadOnly_Constant",
-        "projectPath": "D:\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ReadOnly_Constant\\ReadOnly_Constant.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\ReadOnly_Constant\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\ReadOnly_Constant\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

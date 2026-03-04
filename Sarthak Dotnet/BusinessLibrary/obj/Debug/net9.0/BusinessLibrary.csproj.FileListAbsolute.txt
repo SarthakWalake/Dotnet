@@ -9,3 +9,15 @@ D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.dll
 D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\refint\BusinessLibrary.dll
 D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.pdb
 D:\Sarthak Spektra\BusinessLibrary\obj\Debug\net9.0\ref\BusinessLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.deps.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\bin\Debug\net9.0\BusinessLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.AssemblyInfoInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.AssemblyInfo.cs
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.csproj.CoreCompileInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.sourcelink.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\refint\BusinessLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\BusinessLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\BusinessLibrary\obj\Debug\net9.0\ref\BusinessLibrary.dll

@@ -9,3 +9,15 @@ D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.dll
 D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\refint\AccountLibrary.dll
 D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\AccountLibrary.pdb
 D:\Sarthak Spektra\AccountLibrary\obj\Debug\net9.0\ref\AccountLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\bin\Debug\net9.0\AccountLibrary.deps.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\bin\Debug\net9.0\AccountLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\bin\Debug\net9.0\AccountLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.AssemblyInfoInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.AssemblyInfo.cs
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.csproj.CoreCompileInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.sourcelink.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\refint\AccountLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\AccountLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\AccountLibrary\obj\Debug\net9.0\ref\AccountLibrary.dll

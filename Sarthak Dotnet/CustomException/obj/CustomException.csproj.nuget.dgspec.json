@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\CustomException\\CustomException.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CustomException\\CustomException.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\CustomException\\CustomException.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CustomException\\CustomException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\CustomException\\CustomException.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CustomException\\CustomException.csproj",
         "projectName": "CustomException",
-        "projectPath": "D:\\Sarthak Dotnet\\CustomException\\CustomException.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CustomException\\CustomException.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\CustomException\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CustomException\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj",
         "projectName": "WindowsGreeting",
-        "projectPath": "D:\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\WindowsGreeting\\WindowsGreeting.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\WindowsGreeting\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\WindowsGreeting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

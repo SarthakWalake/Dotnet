@@ -34,7 +34,7 @@ class Class1{
 
     void f2()
     {
-        y = 100 // Accessing static member inside the non static function
+        y = 100; // Accessing static member inside the non static function
     }
     static void Main()
     {

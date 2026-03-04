@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj",
         "projectName": "InterfaceExperiment",
-        "projectPath": "D:\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceExperiment\\InterfaceExperiment.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\InterfaceExperiment\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceExperiment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v9.0": {
       "GreetingApplication/1.0.0": {
         "dependencies": {
-          "Greetinglibrary": "1.0.0"
+          "GreetingLibrary": "1.0.0"
         },
         "runtime": {
           "GreetingApplication.dll": {}
         }
       },
-      "Greetinglibrary/1.0.0": {
+      "GreetingLibrary/1.0.0": {
         "runtime": {
-          "Greetinglibrary.dll": {
+          "GreetingLibrary.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Greetinglibrary/1.0.0": {
+    "GreetingLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

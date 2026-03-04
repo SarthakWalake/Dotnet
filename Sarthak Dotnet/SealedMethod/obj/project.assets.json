@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\SealedMethod\\SealedMethod.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\SealedMethod\\SealedMethod.csproj",
       "projectName": "SealedMethod",
-      "projectPath": "D:\\Sarthak Dotnet\\SealedMethod\\SealedMethod.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\SealedMethod\\SealedMethod.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\SealedMethod\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\SealedMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\Boxing_UnBoxing\\Boxing_UnBoxing.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Boxing_UnBoxing\\Boxing_UnBoxing.csproj",
       "projectName": "Boxing_UnBoxing",
-      "projectPath": "D:\\Sarthak Dotnet\\Boxing_UnBoxing\\Boxing_UnBoxing.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Boxing_UnBoxing\\Boxing_UnBoxing.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\Boxing_UnBoxing\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Boxing_UnBoxing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

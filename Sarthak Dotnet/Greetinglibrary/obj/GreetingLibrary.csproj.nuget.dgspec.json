@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj",
         "projectName": "GreetingLibrary",
-        "projectPath": "D:\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreetingLibrary\\GreetingLibrary.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\GreetingLibrary\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreetingLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

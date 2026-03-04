@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj",
         "projectName": "DelegateRealSceneriao",
-        "projectPath": "D:\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateRealSceneriao\\DelegateRealSceneriao.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\DelegateRealSceneriao\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateRealSceneriao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

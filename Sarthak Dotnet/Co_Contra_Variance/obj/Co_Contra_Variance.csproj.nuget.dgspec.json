@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj",
         "projectName": "Co_Contra_Variance",
-        "projectPath": "D:\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Co_Contra_Variance\\Co_Contra_Variance.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\Co_Contra_Variance\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\Co_Contra_Variance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

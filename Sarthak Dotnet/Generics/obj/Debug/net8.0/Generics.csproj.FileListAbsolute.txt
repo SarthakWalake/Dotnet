@@ -1,0 +1,15 @@
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\bin\Debug\net8.0\Generics.exe
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\bin\Debug\net8.0\Generics.deps.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\bin\Debug\net8.0\Generics.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\bin\Debug\net8.0\Generics.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\refint\Generics.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\Generics\obj\Debug\net8.0\ref\Generics.dll

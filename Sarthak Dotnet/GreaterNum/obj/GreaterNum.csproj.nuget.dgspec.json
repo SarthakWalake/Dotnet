@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj",
         "projectName": "GreaterNum",
-        "projectPath": "D:\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreaterNum\\GreaterNum.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\GreaterNum\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\GreaterNum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

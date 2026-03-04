@@ -6,5 +6,5 @@ string name;
 Console.Write("Enter Your name ");
 name = Console.ReadLine();
 
-Greeting greeting = new Class1();
+Greeting greeting = new Greeting();
 Console.WriteLine(greeting.GreetMe(name));

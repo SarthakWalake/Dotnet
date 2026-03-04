@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj",
         "projectName": "DelegateUse",
-        "projectPath": "D:\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateUse\\DelegateUse.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\DelegateUse\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\DelegateUse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

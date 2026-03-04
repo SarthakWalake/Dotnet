@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IComparble_Student")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a5396408cd094a01dae95efccd74bd4d0faf74")]
 [assembly: System.Reflection.AssemblyProductAttribute("IComparble_Student")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IComparble_Student")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

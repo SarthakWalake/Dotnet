@@ -9,3 +9,15 @@ D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.dll
 D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\refint\Greetinglibrary.dll
 D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\Greetinglibrary.pdb
 D:\Sarthak Spektra\Greetinglibrary\obj\Debug\net9.0\ref\Greetinglibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\bin\Debug\net9.0\GreetingLibrary.deps.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\bin\Debug\net9.0\GreetingLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\bin\Debug\net9.0\GreetingLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.AssemblyInfoInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.AssemblyInfo.cs
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.csproj.CoreCompileInputs.cache
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.sourcelink.json
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\refint\GreetingLibrary.dll
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\GreetingLibrary.pdb
+D:\TAP\GitHub\Dotnet\Sarthak Dotnet\GreetingLibrary\obj\Debug\net9.0\ref\GreetingLibrary.dll

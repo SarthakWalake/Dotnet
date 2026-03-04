@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj",
         "projectName": "BusinessLibrary",
-        "projectPath": "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\BusinessLibrary\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj",
         "projectName": "InterfaceAdvantage",
-        "projectPath": "D:\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceAdvantage\\InterfaceAdvantage.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\InterfaceAdvantage\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\InterfaceAdvantage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,11 +99,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
-                "projectPath": "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj"
+              "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
+                "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj"
               },
-              "D:\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj": {
-                "projectPath": "D:\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj"
+              "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj": {
+                "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "D:\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj",
         "projectName": "VendorLibrary",
-        "projectPath": "D:\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\VendorLibrary.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\VendorLibrary\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\VendorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,8 +172,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
-                "projectPath": "D:\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj"
+              "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj": {
+                "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BusinessLibrary\\BusinessLibrary.csproj"
               }
             }
           }

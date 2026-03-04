@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj": {}
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj": {}
   },
   "projects": {
-    "D:\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj": {
+    "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj",
         "projectName": "CoffeeMachine",
-        "projectPath": "D:\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CoffeeMachine\\CoffeeMachine.csproj",
         "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-        "outputPath": "D:\\Sarthak Dotnet\\CoffeeMachine\\obj\\",
+        "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\CoffeeMachine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

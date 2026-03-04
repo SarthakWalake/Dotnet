@@ -1,12 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "AccountLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AccountLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AccountLibrary/AccountLibrary.csproj",
+      "msbuildProject": "../AccountLibrary/AccountLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj"
+      "AccountLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -16,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
+      "projectUniqueName": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
       "projectName": "BankingApplication",
-      "projectPath": "D:\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
+      "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BankingApplication\\BankingApplication.csproj",
       "packagesPath": "C:\\Users\\sarth\\.nuget\\packages\\",
-      "outputPath": "D:\\Sarthak Dotnet\\BankingApplication\\obj\\",
+      "outputPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\BankingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -42,8 +59,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj": {
-              "projectPath": "D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj"
+            "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj": {
+              "projectPath": "D:\\TAP\\GitHub\\Dotnet\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj"
             }
           }
         }
@@ -82,16 +99,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Sarthak Dotnet\\AccountLibrary\\AccountLibrary.csproj",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  }
 }
