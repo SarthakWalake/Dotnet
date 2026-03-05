@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowsGreeting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a5396408cd094a01dae95efccd74bd4d0faf74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bf9f7a2787ee7aabbf99f3e568b9c814cdce4b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowsGreeting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowsGreeting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
